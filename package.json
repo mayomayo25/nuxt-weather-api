@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-weather-api",
+  "version": "1.0.0",
+  "description": "challenge to weather api in Nuxt.js with Atomic design",
+  "author": "Daichi Seki",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
