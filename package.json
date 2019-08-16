@@ -11,7 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "autoprefixer": "^9.6.1",
+    "nuxt": "^2.0.0",
+    "postcss-cli": "^6.1.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.1.1"
+  }
 }
